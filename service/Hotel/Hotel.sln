@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Service", "Hotel.Service\Hotel.Service.csproj", "{30D1F409-E509-4EDE-800D-B92A2B0D0BE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Entites", "Hotel.Entites\Hotel.Entites.csproj", "{2626ACD2-08C8-4E7F-9CE0-B1661ABC0FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Repository", "Hotel.Repository\Hotel.Repository.csproj", "{33F07AFC-1738-44D5-8A6F-96BE609A0AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D1F409-E509-4EDE-800D-B92A2B0D0BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D1F409-E509-4EDE-800D-B92A2B0D0BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D1F409-E509-4EDE-800D-B92A2B0D0BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D1F409-E509-4EDE-800D-B92A2B0D0BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2626ACD2-08C8-4E7F-9CE0-B1661ABC0FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2626ACD2-08C8-4E7F-9CE0-B1661ABC0FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2626ACD2-08C8-4E7F-9CE0-B1661ABC0FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2626ACD2-08C8-4E7F-9CE0-B1661ABC0FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F07AFC-1738-44D5-8A6F-96BE609A0AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F07AFC-1738-44D5-8A6F-96BE609A0AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F07AFC-1738-44D5-8A6F-96BE609A0AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F07AFC-1738-44D5-8A6F-96BE609A0AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
